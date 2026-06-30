@@ -1,0 +1,14 @@
+# LibreOffice and OpenOffice lock files
+.~lock.*#
+
+# Microsoft Office lock/temp files
+~$*
+
+# Common temporary/draft files
+*.tmp
+*.bak
+*.swp
+
+# OS-specific junk (optional but highly recommended)
+.DS_Store
+Thumbs.db
