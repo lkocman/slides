@@ -2,6 +2,8 @@
 
 ## Slides and demos files for my talks
 
+20261003 openSUSE Asia Summit 2026 - openSUSE KUDOS Recognition Platform [pdf](https://github.com/lkocman/slides/blob/main/osas2026/kudos.pdf) [odp](https://github.com/lkocman/slides/blob/main/osas2026/kudos.odp)
+
 20260627 Kudos Recognition Platform [pdf](https://github.com/lkocman/slides/blob/main/osc2026/kudos.pdf) [odp](https://github.com/lkocman/slides/blob/main/osc2026/kudos.odp)
 
 20260626 openSUSE Conference 2027 - Time for a change [pdf](https://github.com/lkocman/slides/blob/main/osc2026/osc2027.pdf) [odp](https://github.com/lkocman/slides/blob/main/osc2026/osc2027.odp)
