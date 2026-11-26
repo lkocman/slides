@@ -2,7 +2,7 @@
 
 ## Slides and demos files for my talks
 
-202611 Leap vs SLES - Closing the Leap Gap [pdf](https://github.com/lkocman/slides/blob/main/leap-vs-sles-2026-11/leap-vs-sles.pdf) [pptx](https://github.com/lkocman/slides/blob/main/leap-vs-sles-2026-11/leap-vs-sles.pptx)
+202611 Leap vs SLES - Closing the Leap Gap [pdf](https://github.com/lkocman/slides/blob/main/leap2026/leap-vs-sles.pdf) [pptx](https://github.com/lkocman/slides/blob/main/leap2026/leap-vs-sles.pptx)
 
 20261003 openSUSE Asia Summit 2026 - openSUSE KUDOS Recognition Platform [pdf](https://github.com/lkocman/slides/blob/main/osas2026/kudos.pdf) [odp](https://github.com/lkocman/slides/blob/main/osas2026/kudos.odp)
 
